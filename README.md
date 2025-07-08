@@ -1,1 +1,1 @@
-# sbdatadelete
+Account & Data Deletion Policy
